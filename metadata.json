@@ -1,0 +1,6 @@
+{
+  "name": "Portal do Aluno ETEC - Atendimento e Secretaria",
+  "description": "Sistema moderno de atendimento e secretaria acadêmica para estudantes das ETECs do Centro Paula Souza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
